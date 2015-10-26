@@ -1,10 +1,10 @@
 # sarahhearts
 Custom jQuery plugins for SarahHearts.com
 
-*pinit.js*
+*Pinit*
 -
 Shows pinterest icon when the mouse is over the image, only the icon is clickable.
 
-*Socialcount*
+*SocialCount*
 -
-Social media counter (facebook, twitte, google+, pinterest), no API Authentification needed.
+A Simple social media counter (facebook, twitte, google+, pinterest), no API Authentification needed.
